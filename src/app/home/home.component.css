@@ -65,27 +65,25 @@ footer {
     padding: 1rem;
 }
 
-/* Estilos para os cards */
 .card {
-    background-color: #03284d; /* Cor de fundo escura (cinza escuro) */
-    color: #ffffff; /* Cor do texto branca */
+    background-color: #03284d; 
+    color: #ffffff; 
     transition: transform 0.2s;
-    border: none; /* Remover a borda padrão */
+    border: none; 
 }
 
-/* Estilos para o texto dentro dos cards */
 .card-text {
-    color: #ffffff; /* Cor do texto branca */
+    color: #ffffff; 
 }
 
-/* Estilos para os botões dentro dos cards */
+
 .btn-primary {
-    background-color: #007bff; /* Cor de fundo azul para botões "Ver Detalhes" */
+    background-color: #007bff; 
     border: none;
 }
 
 .btn-primary:hover {
-    background-color: #0056b3; /* Cor de fundo azul mais escura ao passar o mouse */
+    background-color: #0056b3; 
 }
 
 .forms{
